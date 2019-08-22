@@ -1,5 +1,5 @@
-# SmartBrain - v2
-Final project for Udemy course
+# SmartBrain
+Final project
 
 1. Clone this repo
 2. Run `npm install`
